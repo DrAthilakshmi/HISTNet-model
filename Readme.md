@@ -1,3 +1,5 @@
+
+> **Note on Code Availability:** This repository contains the functional core of the HISTNet architecture and all scripts necessary to reproduce the results presented in our manuscript. Certain advanced optimization modules are currently restricted to protect unpublished intellectual property and will be fully released upon the formal publication of the research.
 # HISTNet – Implementation Guide
 
 ### Overview
