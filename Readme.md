@@ -39,7 +39,7 @@ To demonstrate the effectiveness of our hybrid approach, we compared HISTNet aga
 ### Installation & Running the Pipeline
 ```bash
 # Clone the repository
-git clone [https://github.com/DrAthilakshmi/HISTNet.git](https://github.com/YOUR-USERNAME/HISTNet.git)
+git clone [https://github.com/DrAthilakshmi/HISTNet.git](https://github.com/DrAthilakshmi/HISTNet.git)
 cd HISTNet
 
 # Install required dependencies
